@@ -1,5 +1,9 @@
-# Administraci-n-Estrat-gica
+# Administración Estrategica
+
 Planificación, ventaja competitiva, toma de decisiones y modelos de negocio.
+
+¿QUÉ ES?
+
 La Administración Estratégica es el proceso de formulación, ejecución y evaluación de acciones que permiten a una organización fijar metas claras y alcanzarse de manera competitiva en el mercado.
 
 1. Conceptos y Componentes Clave
@@ -35,4 +39,4 @@ M&A).
 
 Alineación de la estrategia corporativa con la agilidad operacional.
 
-¿Te gustaría enfocar este tema hacia algún marco teórico en específico, desarrollar una propuesta metodológica o aplicarlo a un caso de estudio real?
+
